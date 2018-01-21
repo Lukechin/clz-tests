@@ -91,8 +91,8 @@ int main(int argc, char *argv[])
     output = fopen("iteration.txt","a");
 #elif defined(byte)
     output = fopen("byte.txt","a");
-#elif defined(binary)
-    output = fopen("binary.txt","a");
+#elif defined(bitmask)
+    output = fopen("bitmask.txt","a");
 #elif defined(harley)
     output = fopen("harley.txt","a");
 #endif

@@ -1,7 +1,14 @@
-binary
+bitmask
 byte
 harley
 iteration
 recursive
 *.o
 .*.d
+bitmask.txt
+byte.txt
+harley.txt
+iteration.txt
+recursive.txt
+runtime.png
+

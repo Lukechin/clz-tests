@@ -54,7 +54,7 @@ unsigned clz(uint32_t x)
     // *INDENT-ON*
 }
 
-#elif defined(binary)
+#elif defined(bitmask)
 
 static inline __attribute((always_inline))
 unsigned clz(uint32_t x)
